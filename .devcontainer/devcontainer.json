@@ -1,0 +1,7 @@
+{
+    "name": "COBOL Development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+    //"remoteUser": "daytona"
+}
