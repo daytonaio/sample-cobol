@@ -1,0 +1,14 @@
+{
+    "name": "COBOL Development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "bitlang.cobol"
+            ]
+        }
+    }
+    //"remoteUser": "daytona"
+}
